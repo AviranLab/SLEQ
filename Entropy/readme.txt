@@ -1,0 +1,1 @@
+To calculate the entropy, predicted structures and corresponding structures should be provided.
