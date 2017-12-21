@@ -75,6 +75,7 @@ To report a bug, open a ticket in the issues tracker. Features can be requested 
 Contributors
 
 Hua Li – Initial implementation
+
 Sharon Aviran – Supervisor
 
 
